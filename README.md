@@ -2,15 +2,15 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on GSSOC 2022...
+🔭 I’m currently working on GSSOC 2022
  
-🌱 I’m currently learning Java,C,Flutter...
+🌱 I’m currently learning Java,C,Flutter
  
-👯 I’m looking to collaborate on Open Source...
+👯 I’m looking to collaborate on Open Source
  
-🤔 I’m looking for help with Hackathons...
+🤔 I’m looking for help with Hackathons
  
-💬 Ask me about Java...
+💬 Ask me about Java
  
 📫 How to reach me: Twitter:- https://twitter.com/TridibGhosh_  Linkedin:- https://www.linkedin.com/in/tridib-ghosh-5771b3211/
  
