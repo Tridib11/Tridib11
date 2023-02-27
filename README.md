@@ -18,7 +18,7 @@
 ⚡ Fun fact: I like dark mode.
 
 
-(https://komarev.com/ghpvc/?username=Tridib11)
+![](https://komarev.com/ghpvc/?username=Tridib11&color=dc143c)
  
 
 
