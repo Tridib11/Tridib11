@@ -26,5 +26,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tridib11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=Tridib11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tridib11&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
