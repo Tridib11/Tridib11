@@ -18,11 +18,13 @@
 ⚡ Fun fact: I like dark mode.
 
 
-![](https://komarev.com/ghpvc/?username=Tridib11)
+(https://komarev.com/ghpvc/?username=Tridib11)
  
 
 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tridib11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+(https://github-readme-activity-graph.cyclic.app/graph?username=Tridib11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
