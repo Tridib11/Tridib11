@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🔭 I’m currently working on Android Development,Machine learning<br><br>🌱 I’m currently learning Java,C,Kotlin,Python,DSA<br><br>👯 I’m looking to collaborate on Open Source<br><br>🤔 I’m looking for help with Hackathons<br><br>😄 Pronouns: He/His<br><br>⚡ Fun fact: I like dark mode.
+Hi there <br> Fun fact: I like dark mode.
 
 
 ## 🌐 Socials:
