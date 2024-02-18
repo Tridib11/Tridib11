@@ -12,17 +12,16 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,java,c,cpp,html,css,docker,python,javascript,express,kotlin,linux,mysql,nodejs,mongodb&perline=15)](https://skillicons.dev)
 
 ## **Github Streak:**
-<p align = "center">
+<p >
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Tridib11&line_height=40&theme=dark">
 </p>
 
 ## **Github Stats:**
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Tridib11&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&count_private=true&line_height=40&theme=dark">
 
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tridib11&theme=dark&show_icons=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
