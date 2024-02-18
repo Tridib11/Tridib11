@@ -3,10 +3,6 @@
 # 💫 About Me:
 <h2>Hi there <br> Fun fact: I like dark mode.</h2>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Tridib11/count.svg" />
-</p>
 
 
 ## 🌐 Socials:
@@ -31,4 +27,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Tridib11/count.svg" />
+</p>
