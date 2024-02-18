@@ -15,6 +15,11 @@ Hi there <br> Fun fact: I like dark mode.
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,java,c,cpp,html,css,docker,python,javascript,express,kotlin,linux,mysql,nodejs,mongodb&perline=15)](https://skillicons.dev)
 
+## **Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Tridib11&line_height=40&theme=dark">
+</p>
+
 ## **Github Stats:**
 <p align="center">
   
