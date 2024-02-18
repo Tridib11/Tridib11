@@ -1,5 +1,12 @@
+<h1 align="center">Hi there 👋 I am  Tridib Ghosh  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+
 # 💫 About Me:
 Hi there <br> Fun fact: I like dark mode.
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Tridib11/count.svg" />
+</p>
 
 
 ## 🌐 Socials:
@@ -8,10 +15,13 @@ Hi there <br> Fun fact: I like dark mode.
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,java,c,cpp,html,css,docker,python,javascript,express,kotlin,linux,mysql,nodejs,mongodb&perline=15)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![Tridib Ghosh](https://github-readme-stats.vercel.app/api?username=Tridib11&theme=dark)</br> </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tridib11&theme=dark&hide_border=false)<br/></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## **Github Stats:**
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Tridib11&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&count_private=true&line_height=40&theme=dark">
+
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
