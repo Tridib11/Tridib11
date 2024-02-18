@@ -18,9 +18,9 @@
 
 ## **Github Stats:**
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tridib11&layout=compact)](https://github.com/Tridib11/github-readme-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tridib11&theme=dark&show_icons=true)
+  ![Tridib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tridib11&theme=dark&show_icons=true)
 
 
 ### ✍️ Random Dev Quote
