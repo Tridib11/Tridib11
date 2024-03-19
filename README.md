@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tridib-ghosh-5771b3211/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TridibGhosh_) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,java,c,cpp,html,css,docker,python,javascript,express,kotlin,linux,mysql,nodejs,mongodb&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,bash,java,c,cpp,html,css,docker,python,javascript,ts,express,kotlin,linux,mysql,nodejs,mongodb&perline=15)](https://skillicons.dev)
 
 ## **Github Streak:**
 <p >
