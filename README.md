@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I am  Tridib Ghosh  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
 
 # 💫 About Me:
-<h3>Fun fact : I like dark mode.</h3>
+<h3>Fun fact : I like dark mode.</h3> lol
 
 
 ## 🌐 Socials:
